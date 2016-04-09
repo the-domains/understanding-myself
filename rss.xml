@@ -2,17 +2,17 @@
     <channel>
         <title><![CDATA[Understanding Myself]]></title>
         <description><![CDATA[Understanding Myself]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/understanding-myself/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 18:01:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 18:18:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/understanding-myself/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Who am I]]></title>
             <description><![CDATA[<article><h1>Who am I</h1><p>I thought I would start this blog by writing a bit about
 myself and why I decided to start this blog. </p></article>]]></description>
-            <link>undefinedwho-am-i/index.html</link>
+            <link>https://thegrid.ai/understanding-myself/who-am-i/index.html</link>
             <guid isPermaLink="false">afe2631e-4fbb-42a2-9852-475f12c350b8</guid>
-            <pubDate>Sat, 09 Apr 2016 18:01:22 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 18:18:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
