@@ -4,8 +4,15 @@
         <description><![CDATA[Understanding Myself]]></description>
         <link>https://thegrid.ai/understanding-myself/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 18:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 18:58:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/understanding-myself/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finding my true identity]]></title>
+            <description><![CDATA[<article><h1>Finding my true identity</h1><p>I usually spend more time with family during Christmas than I normally do. And this Christmas I have been paying a bit more attention to how spending time with various family members feel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
+            <link>http://www.findingmytrueidentity.com/</link>
+            <guid isPermaLink="false">1874d8a9-ebb0-4d73-bd34-880aceb63588</guid>
+            <pubDate>Sat, 09 Apr 2016 18:57:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Types of interaction]]></title>
             <description><![CDATA[<article><h1>Types of interaction</h1><p>I usually spend more time with family during Christmas than
@@ -137,14 +144,6 @@ courage.</p></article>]]></description>
             <link>https://thegrid.ai/understanding-myself/willpower/index.html</link>
             <guid isPermaLink="false">59069bf4-373c-44cb-b195-7ea2e90dac08</guid>
             <pubDate>Sat, 09 Apr 2016 18:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who am I]]></title>
-            <description><![CDATA[<article><h1>Who am I</h1><p>I thought I would start this blog by writing a bit about
-myself and why I decided to start this blog. </p></article>]]></description>
-            <link>https://thegrid.ai/understanding-myself/who-am-i/index.html</link>
-            <guid isPermaLink="false">afe2631e-4fbb-42a2-9852-475f12c350b8</guid>
-            <pubDate>Sat, 09 Apr 2016 18:18:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
