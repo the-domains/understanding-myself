@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Understanding Myself]]></title>
+        <description><![CDATA[Understanding Myself]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Apr 2016 18:01:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who am I]]></title>
+            <description><![CDATA[<article><h1>Who am I</h1><p>I thought I would start this blog by writing a bit about
+myself and why I decided to start this blog. </p></article>]]></description>
+            <link>undefinedwho-am-i/index.html</link>
+            <guid isPermaLink="false">afe2631e-4fbb-42a2-9852-475f12c350b8</guid>
+            <pubDate>Sat, 09 Apr 2016 18:01:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
